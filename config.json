@@ -20,7 +20,7 @@
         "distube music": true,
         "setups": true
     },
-     "lavalink": 
+     "lavalink":{ 
         "lavalink": {
             "host": "lavalink.alfari.id",
             "port": 443,
